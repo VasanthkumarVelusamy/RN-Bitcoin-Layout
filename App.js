@@ -1,5 +1,4 @@
 import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
-import CardView from './CardView';
 import CardContainer from './CardContainer';
 import ListView from './ListView';
 
